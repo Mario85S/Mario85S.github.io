@@ -4,8 +4,8 @@ Hello! I'm an aspiring data analyst with a passion for turning raw data into act
 I hold the **Google Data Analytics Professional Certificate** and recently completed an intense and rigorous **6-months Data Science Bootcamp**,
 where I honed my skills in various tools and techniques. Let's dive into what I can offer:
 
-[**Google Data Analytics Certificate**](https://coursera.org/share/865afaef4994a5fd9416c53bb408524d):
-[**Data Science Bootcamp Portfolio**](https://www.hyperiondev.com/portfolio/MS23020006813/):
+* [**Google Data Analytics Certificate**](https://coursera.org/share/865afaef4994a5fd9416c53bb408524d):
+* [**Data Science Bootcamp Portfolio**](https://www.hyperiondev.com/portfolio/MS23020006813/):
 
 ## Skills and Proficiencies
 - **Spreadsheets**: I'm adept at using spreadsheets (such as Excel or Google Sheets) for data manipulation, calculations, and visualization.
