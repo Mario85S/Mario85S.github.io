@@ -23,8 +23,7 @@ I'm passionate about uncovering patterns, solving puzzles, and telling stories t
 ## Connect with Me
 Feel free to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/mariuszsawka). Let's explore the fascinating world of data together! 🌟
 
-![Data Science](https://example.com/path/to/your/image.png)
+![Data Science](https://images.app.goo.gl/XaJB1fKgTZ7X8dMd6)
 
-*Image source: [Unsplash](https://unsplash.com/photos/your-image-id)*
+*Image source: [Unsplash](https://images.app.goo.gl/XaJB1fKgTZ7X8dMd6)
 ```
-Feel free to customize the placeholders (e.g., `yourusername`, `https://example.com/path/to/your/image.png`, etc.) with your actual information. Good luck with your GitHub landing page! 🚀
