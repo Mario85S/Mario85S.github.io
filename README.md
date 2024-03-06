@@ -6,7 +6,7 @@ I hold the **Google Data Analytics Professional Certificate** and recently compl
 where I honed my skills in various tools and techniques. Let's dive into what I can offer:
 
 ## Skills and Proficiencies
-- **Spreadsheets**: I'm adept at using spreadsheets (such as Excel or Google Sheets) for data manipulation, calculations, and visualization.
+- __Spreadsheets__: I'm adept at using spreadsheets (such as Excel or Google Sheets) for data manipulation, calculations, and visualization.
 - **SQL**: I can write SQL queries to extract, transform, and analyze data from relational databases.
 - **R**: I've explored R for statistical analysis, data visualization, and creating interactive dashboards.
 - **Python**: Python is my go-to language for data cleaning, exploratory data analysis (EDA), and machine learning.
