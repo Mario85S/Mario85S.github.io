@@ -12,10 +12,10 @@ Hello! I'm an aspiring data analyst with a passion for turning raw data into act
 
 ## Projects and Portfolio
 Check out my GitHub repositories for a glimpse of my work:
-- [Data Cleaning and Exploration] (https://github.com/Mario85S/data_analysis_scenario_python01): A project where I cleaned messy data, performed exploratory analysis and visualised the data. 
-- [Predictive Modeling] (https://github.com/Mario85S/data_analysis/blob/main/Linear_Regression_Python.ipynb): Leveraging machine learning algorithms to predict insurance cost. 
-- [Data Exploration Pandas] (https://github.com/Mario85S/data_analysis/blob/main/Pandas_Report.ipynb): Data exploration using pandas for data science bootcamp 
-- [Python Programming] (https://github.com/Mario85S/python_programming): Python programming projects for data science bootcamp 
+- [Data Cleaning and Exploration](https://github.com/Mario85S/data_analysis_scenario_python01): A project where I cleaned messy data, performed exploratory analysis and visualised the data. 
+- [Predictive Modeling](https://github.com/Mario85S/data_analysis/blob/main/Linear_Regression_Python.ipynb): Leveraging machine learning algorithms to predict insurance cost. 
+- [Data Exploration Pandas](https://github.com/Mario85S/data_analysis/blob/main/Pandas_Report.ipynb): Data exploration using pandas for data science bootcamp 
+- [Python Programming](https://github.com/Mario85S/python_programming): Python programming projects for data science bootcamp 
 
 ## Data Science Journey
 I'm passionate about uncovering patterns, solving puzzles, and telling stories through data. Whether it's analyzing customer behavior, optimizing marketing campaigns, or predicting trends,  I thrive on turning data into actionable insights.
