@@ -1,12 +1,14 @@
 # Data Analyst and Data Science Enthusiast 📊🔍 
-![https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png
-](https://github.com/account)
+
 Hello! I'm an aspiring data analyst with a passion for turning raw data into actionable insights.
-I hold the **Google Data Analytics Professional Certificate** and recently completed a rigorous **6-month Data Science Bootcamp**,
+I hold the **Google Data Analytics Professional Certificate** and recently completed an intense and rigorous **6-months Data Science Bootcamp**,
 where I honed my skills in various tools and techniques. Let's dive into what I can offer:
 
+[**Google Data Analytics Certificate**](https://coursera.org/share/865afaef4994a5fd9416c53bb408524d):
+[**Data Science Bootcamp Portfolio**](https://www.hyperiondev.com/portfolio/MS23020006813/):
+
 ## Skills and Proficiencies
-- __Spreadsheets__: I'm adept at using spreadsheets (such as Excel or Google Sheets) for data manipulation, calculations, and visualization.
+- **Spreadsheets**: I'm adept at using spreadsheets (such as Excel or Google Sheets) for data manipulation, calculations, and visualization.
 - **SQL**: I can write SQL queries to extract, transform, and analyze data from relational databases.
 - **R**: I've explored R for statistical analysis, data visualization, and creating interactive dashboards.
 - **Python**: Python is my go-to language for data cleaning, exploratory data analysis (EDA), and machine learning.
