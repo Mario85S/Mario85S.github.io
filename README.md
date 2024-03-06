@@ -1,7 +1,9 @@
 ```markdown
 # Data Analyst and Data Science Enthusiast 📊🔍
 
-Hello! I'm an aspiring data analyst with a passion for turning raw data into actionable insights. I hold the **Google Data Analytics Professional Certificate** and recently completed a rigorous **6-month Data Science Bootcamp**, where I honed my skills in various tools and techniques. Let's dive into what I can offer:
+Hello! I'm an aspiring data analyst with a passion for turning raw data into actionable insights.
+I hold the **Google Data Analytics Professional Certificate** and recently completed a rigorous **6-month Data Science Bootcamp**,
+where I honed my skills in various tools and techniques. Let's dive into what I can offer:
 
 ## Skills and Proficiencies
 - **Spreadsheets**: I'm adept at using spreadsheets (such as Excel or Google Sheets) for data manipulation, calculations, and visualization.
@@ -18,7 +20,8 @@ Check out my GitHub repositories for a glimpse of my work:
 - [Python Programming](https://github.com/Mario85S/python_programming): Python programming projects for data science bootcamp 
 
 ## Data Science Journey
-I'm passionate about uncovering patterns, solving puzzles, and telling stories through data. Whether it's analyzing customer behavior, optimizing marketing campaigns, or predicting trends,  I thrive on turning data into actionable insights.
+I'm passionate about uncovering patterns, solving puzzles, and telling stories through data. Whether it's analyzing customer behavior, optimizing marketing campaigns,
+or predicting trends,I thrive on turning data into actionable insights.
 
 ## Connect with Me
 Feel free to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/mariuszsawka). Let's explore the fascinating world of data together! 🌟
