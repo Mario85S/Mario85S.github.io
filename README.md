@@ -1,4 +1,5 @@
-# Data Analyst and Data Science Enthusiast 📊🔍 ![https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png
+# Data Analyst and Data Science Enthusiast 📊🔍 
+![https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png
 ](https://github.com/account)
 Hello! I'm an aspiring data analyst with a passion for turning raw data into actionable insights.
 I hold the **Google Data Analytics Professional Certificate** and recently completed a rigorous **6-month Data Science Bootcamp**,
