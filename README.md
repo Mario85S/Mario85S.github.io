@@ -13,7 +13,7 @@ where I honed my skills in various tools and techniques. Let's dive into what I 
 
 ## Projects and Portfolio
 Check out my GitHub repositories for a glimpse of my work:
-- [Data Cleaning and Exploration](https://github.com/Mario85S/data_analysis_scenario_python01): A project where I cleaned messy data, performed exploratory analysis and visualised the data. 
+- [Data Cleaning and Exploration](https://github.com/Mario85S/data_analysis_scenario_python01/blob/main/Credit_Card_Analysis_Pred.ipynb): A project where I cleaned messy data, performed exploratory analysis and visualised the data. 
 - [Predictive Modeling](https://github.com/Mario85S/data_analysis/blob/main/Linear_Regression_Python.ipynb): Leveraging machine learning algorithms to predict insurance cost. 
 - [Data Exploration Pandas](https://github.com/Mario85S/data_analysis/blob/main/Pandas_Report.ipynb): Data exploration using pandas for data science bootcamp 
 - [Python Programming](https://github.com/Mario85S/python_programming): Python programming projects for data science bootcamp 
