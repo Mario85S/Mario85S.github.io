@@ -19,7 +19,7 @@ Check out my GitHub repositories for a glimpse of my work:
 - [Python Programming](https://github.com/Mario85S/python_programming): Python programming projects for data science bootcamp 
 
 ## Data Science Journey
-Embarking on my journey in the realm of Data Science, I find myself driven by a fervent passion for unveiling hidden patterns, solving intricate puzzles, and narrating compelling stories through the lens of data. My enthusiasm is not confined to a specific domain. Be it dissecting customer behavior to understand their needs better, fine-tuning marketing campaigns for maximum impact, or forecasting trends to stay ahead of the curve, I find immense satisfaction in transforming raw data into actionable insights.
+Embarking on my journey in the realm of Data Analytics and Data Science, I find myself driven by a fervent passion for unveiling hidden patterns, solving intricate puzzles, and narrating compelling stories through the lens of data. My enthusiasm is not confined to a specific domain. Be it dissecting customer behavior to understand their needs better, fine-tuning marketing campaigns for maximum impact, or forecasting trends to stay ahead of the curve, I find immense satisfaction in transforming raw data into actionable insights.
 My pursuit is not merely about numbers and figures; it's about leveraging data to create value, drive strategy, and effect change. With every dataset I delve into, I aim to extract meaningful information that can guide decision-making processes and contribute to achieving business objectives. This journey is a continuous learning process, and with each step, I strive to hone my skills and broaden my understanding of this fascinating field.
 
 ## Connect with Me
