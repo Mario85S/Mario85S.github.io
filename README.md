@@ -1,5 +1,3 @@
-Sure, here is the HTML version of your markdown content:
-
 ```html
 <h1>Data Analyst and Data Science Enthusiast 📊🔍</h1>
 
@@ -30,6 +28,3 @@ Sure, here is the HTML version of your markdown content:
 <p>Feel free to reach out! Connect with me on <a href="https://www.linkedin.com/in/mariuszsawka">LinkedIn</a>. Let's explore the fascinating world of data together! 🌟</p>
 ```
 
-Źródło: Konwersacja za pomocą usługi Bing, 6.03.2024
-(1) undefined. https://exercism.org/tracks/python/exercises/little-sisters-vocab.
-(2) undefined. https://www.reply.com/en.
