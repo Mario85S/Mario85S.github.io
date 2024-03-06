@@ -1,4 +1,3 @@
-```markdown
 # Data Analyst and Data Science Enthusiast 📊🔍
 
 Hello! I'm an aspiring data analyst with a passion for turning raw data into actionable insights.
