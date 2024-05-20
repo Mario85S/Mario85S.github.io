@@ -6,7 +6,7 @@ where I honed my skills in various tools and techniques. Let's dive into what I 
 
 * [**Google Data Analytics Certificate**](https://coursera.org/share/865afaef4994a5fd9416c53bb408524d)
 * [**Data Science Bootcamp Portfolio**](https://www.hyperiondev.com/portfolio/MS23020006813/)
-* [**SQL For Data Science Certificate**](https://coursera.org/share/5aea39159506b800cd3447b7d007c380/)
+* [**SQL For Data Science Certificate**](https://coursera.org/share/5aea39159506b800cd3447b7d007c380)
 
 
 ## Skills and Proficiencies
